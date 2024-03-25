@@ -1,4 +1,4 @@
-@import url("node_modules/bootstrap/dist/css/bootstrap.rtl.min.css");
-@import url("node_modules/@fortawesome/fontawesome-free/css/all.min.css");
-@import url("node_modules/vazirmatn/Vazirmatn-font-face.css");
+@import url("lib/bootstrap/dist/css/bootstrap.rtl.min.css");
+@import url("lib/@fortawesome/fontawesome-free/css/all.min.css");
+@import url("lib/vazirmatn/Vazirmatn-font-face.css");
 @import url("style.css");
