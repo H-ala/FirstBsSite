@@ -1,0 +1,31 @@
+body {
+    font-family: Vazirmatn, serif;
+    direction: rtl;
+}
+
+span {
+    font-size: 75%;
+    transition: 500ms;
+}
+
+footer a:hover {
+    transition: 400ms;
+    transform: rotateY(15deg);
+}
+
+.fa-shopping-cart span {
+    font-size: 45%;
+}
+
+.stuff .row a:hover span{
+    color: #000;
+}
+.ykw p,
+.most p{
+    height: 3rem;
+}
+
+.ykw p,
+.ykw h6{
+    font-size: 85%;
+}
